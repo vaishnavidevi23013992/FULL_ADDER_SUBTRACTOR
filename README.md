@@ -55,6 +55,7 @@ RegisterNumber:212223040230
 */
 
 **FULL ADDER:**
+
 ![4 3](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/edee3917-43f8-4180-94bf-6e5e97340c3d)
 
 
