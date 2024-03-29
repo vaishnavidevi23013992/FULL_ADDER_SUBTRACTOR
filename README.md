@@ -55,23 +55,34 @@ RegisterNumber:212223040230
 */
 
 FULL ADDER:
+
+
 ![4 3](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/edee3917-43f8-4180-94bf-6e5e97340c3d)
 
 FULL SUBTRACTOR:
+
+
 ![4 4](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/7ca8edc2-5bf5-406d-ab48-5cea358ddef0)
 
 
 
 
 **RTL Schematic**
+
+
 FULL ADDER:
+
+
 ![4 5](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/9fce1d18-f774-46bc-b01b-664433871ad9)
 
 FULL SUBTRACTOR: 
+
+
 ![4 6](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/38e916f9-4f1d-4f27-a5cc-96a3c80bcc2f)
 
 
 **Output Timing Waveform**
+
   ![4 7](https://github.com/vaishnavidevi23013992/FULL_ADDER_SUBTRACTOR/assets/151864235/ba9684c7-7245-401a-b722-3f626eaf69bf)
 
 **Result:**
